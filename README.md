@@ -1,2 +1,2 @@
 # udemy
- Wordpress Theme with FSE support
+ WordPress Theme with FSE support
